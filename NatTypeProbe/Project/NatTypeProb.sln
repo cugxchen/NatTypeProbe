@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NatTypeProb", "NatTypeProb.vcxproj", "{E0C97987-3866-32D1-B8DA-A39727FF2DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		Release|Win32 = Release|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.Debug|Win32.Build.0 = Debug|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.Release|Win32.ActiveCfg = Release|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.Release|Win32.Build.0 = Release|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{E0C97987-3866-32D1-B8DA-A39727FF2DF4}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D60EA0D-DA6C-3762-95E8-0B63810C6354}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\909845\Desktop\NatTypeProb\Source\Startup\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\909845\Desktop\NatTypeProb\Source\Nat\NatProb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\909845\Desktop\NatTypeProb\Source\Nat\Stun\p2p_api.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\909845\Desktop\NatTypeProb\Source\Nat\Stun\udp.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\909845\Desktop\NatTypeProb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6C4C667C-EF3D-3B6D-881F-7BB74E595631}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
